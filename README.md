@@ -1,6 +1,6 @@
 Мой бэкенд:
 
-https://backend-vadimpanuta.nomoredomainswork.ru/
+https://github.com/PanutaVadim/pindie-backend
 
 Для запуска: 
 
