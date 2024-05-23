@@ -6,3 +6,4 @@ export const endpoints = {
   auth: `${BASE_URL}/auth/login`,
   me: `${BASE_URL}/me`,
 }
+ 
